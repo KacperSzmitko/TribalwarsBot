@@ -1,4 +1,4 @@
-# Tribalwats Bot
+# Tribalwars Bot
 This app is a farming bot for the tribal wars game. The bot is easily configurable and provides flexibility in this configuration. If an error occurs or a capcha appears, the bot notifies the user of this event by sending an email. All you have to do is configure it once and run the program. All available options are listed and explained below.
 
 "Username" - your Tribal Wars username
