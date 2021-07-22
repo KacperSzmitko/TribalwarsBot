@@ -1,0 +1,6 @@
+/.venv
+/.vscode
+/build
+/dist
+/farma.py
+/text.py

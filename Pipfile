@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+webdriver-manager = "*"
+selenium = "*"
+fake-useragent = "*"
+smsapi-client = "*"
+pyinstaller = "*"
+pylint = "*"
+
+[requires]
+python_version = "3.6"
