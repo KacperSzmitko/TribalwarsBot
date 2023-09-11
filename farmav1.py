@@ -69,7 +69,6 @@ def send_mail(msg: str):
     '''Send mail to gmail acc
   
     '''
-    password = 'thpobiop12'
     smtp_server = "smtp.gmail.com"
     sender_email = 'arararagisan13@gmail.com'
     port = 465  # For SSL
